@@ -24,7 +24,7 @@ Max Velocity (Pred/Actual): <br>
 Rail Exit Velocity: 85 ft/s  \
 Stability Margin (Cal/%): \
 Drogue Descent Rate: 55 ft/s \
-Main Descent: 15 ft/s \
+Main Descent: 15 ft/s 
 
 **Design** \
 This rocket was modeled in OpenRocket to choose possible certification motors and confirm stability, rail exit velocity, and apogee expectations. \
