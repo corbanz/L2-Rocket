@@ -20,8 +20,8 @@ Altimeter: Altus Metrum EasyMini \
 
 **Performance**\
 Apogee (Pred/Actual): \
-Max Velocity (Pred/Actual):  \ 
-Rail Exit Velocity: 85 ft/s  
+Max Velocity (Pred/Actual): \ 
+Rail Exit Velocity: 85 ft/s  \
 Stability Margin (Cal/%): \
 Drogue Descent Rate: 55 ft/s \
 Main Descent: 15 ft/s \
