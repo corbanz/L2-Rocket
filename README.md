@@ -1,6 +1,6 @@
 # L2-Rocket
 \
-Scratch-built 4" high-power rocket for NAR Level 2 certification, with dual-deployment recovery. \
+Scratch-built 4" high-power rocket for NAR Level 2 certification, with dual-deployment recovery.       
 
 <img width="2131" height="636" alt="image" src="https://github.com/user-attachments/assets/f2810683-214d-4382-8920-7e8167727de7" />
 
@@ -20,8 +20,8 @@ Altimeter: Altus Metrum EasyMini \
 
 **Performance**\
 Apogee (Pred/Actual): \
-Max Velocity (Pred/Actual): \ 
-Rail Exit Velocity: 85 ft/s \
+Max Velocity (Pred/Actual):  \ 
+Rail Exit Velocity: 85 ft/s  \
 Stability Margin (Cal/%): \
 Drogue Descent Rate: 55 ft/s \
 Main Descent: 15 ft/s \
